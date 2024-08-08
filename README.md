@@ -1,4 +1,5 @@
-# Retrieval-Augmented Generation (RAG) to answer questions based on PDF documents uploaded to Slack. Once a PDF is uploaded to a Slack channel, the bot processes the content, stores it in a vector database, and uses an OpenAI language model to respond accurately and contextually to user queries.
+Retrieval-Augmented Generation (RAG) to answer questions based on PDF documents uploaded to Slack.
+Once a PDF is uploaded to a Slack channel, the bot processes the content, stores it in a vector database, and uses an OpenAI language model to respond accurately and contextually to user queries.
 Features
 PDF Upload Detection: Automatically listens for PDF file uploads in Slack channels.
 Content Parsing: Downloads and parses the uploaded PDFs.
